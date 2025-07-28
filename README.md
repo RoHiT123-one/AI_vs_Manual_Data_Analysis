@@ -34,6 +34,6 @@ This project is proof that while manual work builds deep understanding, AI can s
 ---
 
 Connect with Me
-Rohit – Aspiring Data Analyst
+Rohit – Aspiring Data Analyst |
 [LinkedIn] (https://www.linkedin.com/in/rohit-rohit-88bb48268/)
 [GitHub] (https://github.com/RoHiT123-one)

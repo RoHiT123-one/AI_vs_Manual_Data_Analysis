@@ -3,7 +3,7 @@
  AI vs Manual: Sales Analysis Project
 
 Overview
-This project showcases a comparison between a manually developed sales analysis project and the same project generated using AI (ChatGPT). It demonstrates how AI can reduce days of work into minutes while maintaining output quality.
+This project showcases a comparison between a manually developed sales analysis project and the same project generated using AI (PowerDrill AI). It demonstrates how AI can reduce days of work into minutes while maintaining output quality.
 
 Folders:
 - `/Sales_Analysis_Manual`: Fully coded by hand using Python
